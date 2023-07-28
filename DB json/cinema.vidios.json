@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "64c3eb48a08136083dc2b9b7"
+  },
+  "imgURL": "https://www.facebook.com/images/fb_icon_325x325.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c3ebf0a08136083dc2b9bb"
+  },
+  "imgURL": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+  "__v": 0
+}]
